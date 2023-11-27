@@ -4,3 +4,12 @@
     &-medium { margin-bottom: 4rem }
     &-big { margin-bottom: 8rem }
 }
+
+.u-margin-top {
+    &-big {
+        margin-top: 8rem;
+    }
+    &-huge {
+        margin-top: 10rem;
+    }
+}
